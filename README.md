@@ -11,11 +11,15 @@ Project repo: https://github.com/
 ### STEP 01 - Create a conda environment after opening the repository
 
 '''bash
-conda create medichat python=3.10 -y
+pip install pipenv
 '''
 
 '''bash
-conda activate medichat
+pipenv install medichat
+'''
+
+'''bash
+pipenv shell
 '''
 
 ### STEP 02- install the requirements
