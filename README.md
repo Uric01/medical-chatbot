@@ -1,12 +1,13 @@
 # medical-chatbot
 
 # How to run
+
 ### STEPS:
 
 Clone the repository
 
 '''bash
-Project repo: https://github.com/
+Project repo: https://github.com/Uric01/medical-chatbot.git
 '''
 ### STEP 01 - Create a conda environment after opening the repository
 
