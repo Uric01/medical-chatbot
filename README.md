@@ -9,7 +9,7 @@ Clone the repository
 '''bash
 Project repo: https://github.com/Uric01/medical-chatbot.git
 '''
-### STEP 01 - Create a conda environment after opening the repository
+### STEP 01 - Create an environment after opening the repository 
 
 '''bash
 pip install pipenv
